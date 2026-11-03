@@ -1,3 +1,3 @@
-<div>
-    ## Agency OS Documentation
-</div>
+
+<h2 align="center">Agency OS Documentation</h2>
+
